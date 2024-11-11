@@ -10,7 +10,7 @@ An interactive and insightful sales dashboard created in Microsoft Excel, design
 - Customer Insights: Highlight top customers to prioritize retention efforts.
 
 ### Files
-- excel/Sales_Dashboard.xlsx - The main Excel file containing the sales dashboard.
+- excel/SuperStore Dashboard.xlsx - The main Excel file containing the sales dashboard.
 - assets/Dashboard.png - A snapshot of the dashboard for quick reference.
 
 ### How to Use
