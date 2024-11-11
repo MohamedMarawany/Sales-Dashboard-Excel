@@ -9,6 +9,10 @@ An interactive and insightful sales dashboard created in Microsoft Excel, design
 - Segment & Regional Analysis: Compare performance across customer segments and regions.
 - Customer Insights: Highlight top customers to prioritize retention efforts.
 
+### DataSet Used:
+- <a href="https://github.com/MohamedMarawany/Sales-Dashboard-Excel/blob/main/SuperStore%20Dashboard.xlsx">Excel</a>
+- <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">Kaggle</a>
+
 ### Files
 - excel/SuperStore Dashboard.xlsx - The main Excel file containing the sales dashboard.
 - assets/Dashboard.png - A snapshot of the dashboard for quick reference.
