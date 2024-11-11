@@ -14,9 +14,9 @@ An interactive and insightful sales dashboard created in Microsoft Excel, design
 - assets/Dashboard.png - A snapshot of the dashboard for quick reference.
 
 ### How to Use
-- 1. Download the Excel file from the excel folder.
-- 2. Open the file in Excel and explore the interactive filters.
-- 3. Check out the various charts and graphs to understand key sales insights.
+1. Download the Excel file from the excel folder.
+2. Open the file in Excel and explore the interactive filters.
+3. Check out the various charts and graphs to understand key sales insights.
 
 ## Dashboard Preview
 
