@@ -35,16 +35,16 @@ This project is open-source and available under the MIT License.
 ### 5. Add a License (Optional)
 If you want your project to be openly available for others to use or modify, add a license file:
 
-- 1. Go to your repository.
-- 2. Click on Add file > Create new file.
-- 3. Name the file LICENSE.
-- 4. Choose a license type, such as MIT License, from the options provided on GitHub.
-- 5. Click Commit new file.
+1. Go to your repository.
+2. Click on Add file > Create new file.
+3. Name the file LICENSE.
+4. Choose a license type, such as MIT License, from the options provided on GitHub.
+5. Click Commit new file.
 
 ### 6. Final Touches
-- 1. Edit the repository description if needed.
-- 2. Add Topics (tags) to help others find your repository, such as Excel, Dashboard, Data Visualization, Sales Analysis, etc.
-- 3. Share your GitHub repository link on LinkedIn or with colleagues to showcase your work!
+1. Edit the repository description if needed.
+2. Add Topics (tags) to help others find your repository, such as Excel, Dashboard, Data Visualization, Sales Analysis, etc.
+3. Share your GitHub repository link on LinkedIn or with colleagues to showcase your work!
 Let me know if you need any further help with this!
 
 
