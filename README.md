@@ -30,6 +30,11 @@ An interactive and insightful sales dashboard created in Microsoft Excel, design
 - Segment Analysis: Breakdown by category and customer segment.
 - Regional Performance: Sales comparison across different regions.
 
+- Dashboard Interaction <a href="https://github.com/MohamedMarawany/Sales-Dashboard-Excel/blob/main/Dashboard.png">View Dashboard</a>
+
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/0b46b368-c73a-4354-afff-0d56dff6f5bd)
+
 ### Requirements
 - Microsoft Excel: The dashboard uses pivot tables and slicers, so Excel 2016 or later is recommended.
 
