@@ -1,4 +1,4 @@
-# Sales Dashboard in Excel 📊
+# SuperStore Sales Dashboard in Excel 📊
 An interactive and insightful sales dashboard created in Microsoft Excel, designed to visualize key sales metrics, track trends, and aid business decision-making.
 
 ## Overview
