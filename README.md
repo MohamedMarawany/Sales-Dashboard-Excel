@@ -1,8 +1,5 @@
-Sales Dashboard in Excel 📊
-An interactive and insightful sales dashboard created in Microsoft Excel, designed to visualize key sales metrics, track trends, and aid business decision-making.
-
-Overview
-This project includes:
+# Overview
+## This project includes:
 
 Interactive Filters: Filter sales data by category, region, year, and quarter.
 Monthly & Quarterly Trends: Identify sales trends over time.
